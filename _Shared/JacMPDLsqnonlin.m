@@ -1,7 +1,7 @@
 function [jac] = JacMPDLsqnonlin(structModel, expModes, simModes, ...
     eigFreqOpt, normOpt, objOpt)
 % function [jac] = JacMPDLsqnonlin(structModel, expModes, simModes, ...
-%     eigFreqOpt, normOpt, objOpt)
+%      eigFreqOpt, normOpt, objOpt)
 %
 %   (c) Yang Wang, Xinjun Dong, Dan Li (all rights reserved)
 %       School of Civil and Environmental Engineering
