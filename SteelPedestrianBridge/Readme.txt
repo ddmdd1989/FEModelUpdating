@@ -22,5 +22,3 @@ Contents under \SteelPedestrianBridge:
 "\Non_CVX_iLL"
 * This is a folder including the local optimal result of the MAC value formulation and the code to plot the nonconvex illustration figure.
 * Please run "NonCVX_Conventional_MAC.m" to plot the nonconvex illustration figure.
-
-asda
